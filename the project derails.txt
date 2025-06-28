@@ -1,0 +1,10 @@
+project details: 
+
+├── app/
+│   ├── page.tsx          ← Main homepage (what you see)
+│   ├── layout.tsx        ← Overall page structure
+│   └── globals.css       ← Global styles
+├── components/
+│   └── ui/               ← Pre-built components (buttons, cards, etc.)
+├── public/               ← Images and static files go here
+└── package.json          ← Project settings
